@@ -5,7 +5,7 @@ VERSION:3.0
 N:;;;
 FN: ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂
 item.ORG: ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂
-item1.TEL;waid=6285828377610:6285828377610@s.whatsapp.net
+item1.TEL;waid=6285828764046:6285828764046@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
 item2.EMAIL;type=INTERNET: anidaanida59@gmail.com
 item2.X-ABLabel:📧Email
